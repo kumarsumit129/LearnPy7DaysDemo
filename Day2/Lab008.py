@@ -6,6 +6,5 @@ print(age)
 # float - 3.14, 24.56
 # variableName = variableValue
 
-
-class = 45
-print(age)
+#class = 45
+#print(age)
